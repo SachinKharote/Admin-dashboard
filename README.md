@@ -1,4 +1,4 @@
-# Bootstrap-admin-dashboard
+# Admin-dashboard
 The Admin Dashboard website is a powerful and intuitive platform designed to streamline the management and oversight of your organization's operations. With a clean, modern interface, it offers administrators a centralized hub to monitor, analyze, and control various aspects of their business in real-time.
 
 Key Features:
